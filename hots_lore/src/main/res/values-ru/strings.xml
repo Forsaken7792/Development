@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">HotS Истории</string>
+    <string name="start">Герои</string>
+    <string name="about">Информация</string>
+    <string name="rate">Оценить приложение</string>
+    <string name="donate">Поддержать</string>
+    <string name="Language">Язык</string>
+    <string name="Quit">Выход</string>
+    <string name="abathur">"Абатур"</string>
+    <string name="alarak"> "Аларак"</string>
+    <string name="anubarak">"Ануб`арак"</string>
+    <string name="artanis">"Артанис"</string>
+    <string name="arthas">"Артас"</string>
+    <string name="auriel">"Ауриэль"</string>
+    <string name="azmodan">"Азмодан"</string>
+    <string name="brightwing">"Светик"</string>
+    <string name="butcher">"Мясник"</string>
+    <string name="cassia">"Кассия"</string>
+    <string name="chen">"Чэнь"</string>
+    <string name="chogall">"Чо`Галл"</string>
+    <string name="chromie">"Хроми"</string>
+    <string name="dva">"D.VA"</string>
+    <string name="dehaka">"Дехака"</string>
+    <string name="diablo">"Диабло"</string>
+    <string name="etc">"E.T.C."</string>
+    <string name="falstad">"Фалстад"</string>
+    <string name="garrosh">"Гаррош"</string>
+    <string name="gazlowe">"Газлоу"</string>
+    <string name="genji">"Гэндзи"</string>
+    <string name="greymane">"Седогрив"</string>
+    <string name="guldan">"Гул`дан"</string>
+    <string name="illidan">"Иллидан"</string>
+    <string name="jaina">"Джайна"</string>
+    <string name="johanna">"Джоанна"</string>
+    <string name="kaelthas">"Кель`тас"</string>
+    <string name="kelthuzad">"Кел`Тузад"</string>
+    <string name="kerrigan">"Керриган"</string>
+    <string name="kharazim">"Каразим"</string>
+    <string name="leoric">"Леорик"</string>
+    <string name="lili">"ЛиЛи"</string>
+    <string name="liming">"Ли-Мин"</string>
+    <string name="ltmorales">"Лейтенант Моралес"</string>
+    <string name="lucio">"Лусио"</string>
+    <string name="lunara">"Лунара"</string>
+    <string name="malfurion">"Малфурион"</string>
+    <string name="malthael">"Малтаэль"</string>
+    <string name="medivh">"Медив"</string>
+    <string name="muradin">"Мурадин"</string>
+    <string name="murky">"Мурчаль"</string>
+    <string name="nazeebo">"Назибо"</string>
+    <string name="nova">"Нова"</string>
+    <string name="probius">"Пробиус"</string>
+    <string name="ragnaros">"Рагнарос"</string>
+    <string name="raynor">"Рейнор"</string>
+    <string name="rehgar">"Регар"</string>
+    <string name="rexxar">"Рексар"</string>
+    <string name="samuro">"Самуро"</string>
+    <string name="sgthammer">"Сержант Кувалда"</string>
+    <string name="sonya">"Соня"</string>
+    <string name="stitches">"Стежок"</string>
+    <string name="stukov">"Стуков"</string>
+    <string name="sylvanas">"Сильвана"</string>
+    <string name="tassadar">"Тассадар"</string>
+    <string name="lostvikings">"Потерявшиеся Викинги"</string>
+    <string name="thrall">"Тралл"</string>
+    <string name="tracer">"Трейсер"</string>
+    <string name="tychus">"Тайкус"</string>
+    <string name="tyrael">"Тираэль"</string>
+    <string name="tyrande">"Тиранда"</string>
+    <string name="uther">"Утер"</string>
+    <string name="valeera">"Валира"</string>
+    <string name="valla">"Валла"</string>
+    <string name="varian">"Вариан"</string>
+    <string name="xul">"Зул"</string>
+    <string name="zagara">"Загара"</string>
+    <string name="zarya">"Заря"</string>
+    <string name="zeratul">"Зератул"</string>
+    <string name="zuljin">"Зул`Джин"</string>
+    <string name="ana">"Ана"</string>
+    <string name="junkrat"> "Крысавчик"</string>
+    <string name="alextrasza">"Алекстраза"</string>
+    <string name="hanzo">"Хандзо</string>
+    <string name="blaze">Блэйз</string>
+    <string name="maiev">Майев</string>
+    <string name="dbName">"hots_rus1.db"</string>
+    <string name="choose">Выбор героя:</string>
+    <string name="heroes">"Abathur","Alarak","Anub`Arak","Artanis","Arthas","Auriel","Azmodan","Brightwing","Butcher","Cassia","Chen","Cho`Gall","Chromie",
+                    "D.VA","Dehaka","Diablo","E.T.C.","Falstad","Garrosh","Gazlowe","Genji","Greymane","Gul`dan","Illidan","Jaina","Johanna",
+                    "Kael`Thas","Kel`Thuzad","Kerrigan","Kharazim","Leoric","LiLi","Li-Ming","Lt. Morales","Lucio","Lunara","Malfurion",
+                    "Malthael","Medivh","Muradin","Murky","Nazeebo","Nova","Probius","Ragnaros","Raynor","Rehgar","Rexxar","Samuro","Sgt. Hammer",
+                    "Sonya","Stitches","Stukov","Sylvanas","Tassadar","Lost Vikings","Thrall","Tracer","Tychus","Tyrael","Tyrande","Uther",
+                    "Valeera","Valla","Varian","Xul","Zagara","Zarya","Zeratul","Zul`Jin","Junkrat","Ana"</string>
+    <string name="About">
+        \n
+        \n
+        \n
+        Это приложение - справочник историй (лора) о героях, которые были добавлены в игру "Heroes of the Storm", разработанную компанией Blizzard Entertainment . \n
+        Здесь собрана и систематизирована информация о героях из вселенных Blizzard, откуда были взяты персонажи в качестве играбельных героев для этой игры. \n\
+        \n
+        Разработка, локализация: Forsaken \n
+        Арт на иконке игры: Maypole (www.artstation.com/maypole) \n
+        \n
+        \n
+        \n
+        Спасибо комьюнити игроков и фанатов Blizzard-игр.\n
+        \n
+        Особая благодарность:\n
+        - Chronosh (YouTube канал xDlate Production);\n
+        - Wyrmwood (YouTube канал Wyrmwood); \n
+        - Kras (YouTube канал Kras) \n
+        за их видеоролики по лору, которые послужили источником вдохновения к созданию данного приложения.\n
+        \n
+        А также компанию Blizzard Entertainment за не только прекрасные игры, но и за замечательные игровые вселенные с интересной историей.\n
+        \n
+        Пожалуйста, если Вам понравилось данное приложение или у Вас есть какие-то замечания или отзывы касательно него, оставьте их на странице приложения в Play Market.
+        \n
+        Если у Вас есть замечания касательно неточностей в тексте или чем его можно дополнить, свяжитесь по e-mail ekssua@gmail.com
+        \n
+        Все права на персонажей и их изображения принадлежат Blizzard Entertainment.\n
+        \n
+        HEROES OF THE STORM AND ALL RELATED IMAGES ARE PROPERTY AND TRADEMARK OF BLIZZARD ENTERTAINMENT. NO COPYRIGHT INFRINGEMENT INTENDED.
+        \n
+        Heroes of the Storm is a trademark, and Blizzard Entertainment is a registered trademark of Blizzard Entertainment Inc. in the U.S. and/or other countries. All other trademarks referenced here are the properties of their respective owners.\n
+
+    </string>
+    <string name="donText"> Если Вам понравилось данное приложение и хотите, чтобы оно своевременно пополнялось и обновлялось, Вы можете поддержать разработчика.\n
+        \n
+        \n
+        WebMoney:\n
+        EUR  104508948849\n
+        USD  103146454536\n
+        UAH  334996451719\n
+        Rub  361023078850\n
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-9134424877176633/7129367094</string>
+    <string name="strorinka">ca-app-pub-9134424877176633/9190872895</string>
+</resources>

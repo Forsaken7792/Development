@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">HotS Lore</string>
+    <string name="start">Heroes</string>
+    <string name="about">About</string>
+    <string name="rate">Rate this app</string>
+    <string name="donate">Support</string>
+    <string name="Language">Language</string>
+    <string name="Quit">Quit</string>
+    <string name="abathur">"Abathur"</string>
+    <string name="alarak"> "Alarak"</string>
+    <string name="anubarak">"Anub`Arak"</string>
+    <string name="artanis">"Artanis"</string>
+    <string name="arthas">"Arthas"</string>
+    <string name="auriel">"Auriel"</string>
+    <string name="azmodan">"Azmodan"</string>
+    <string name="brightwing">"Brightwing"</string>
+    <string name="butcher">"Butcher"</string>
+    <string name="cassia">"Cassia"</string>
+    <string name="chen">"Chen"</string>
+    <string name="chogall">"Cho`Gall"</string>
+    <string name="chromie">"Chromie"</string>
+    <string name="dva">"D.VA"</string>
+    <string name="dehaka">"Dehaka"</string>
+    <string name="diablo">"Diablo"</string>
+    <string name="etc">"E.T.C."</string>
+    <string name="falstad">"Falstad"</string>
+    <string name="garrosh">"Garrosh"</string>
+    <string name="gazlowe">"Gazlowe"</string>
+    <string name="genji">"Genji"</string>
+    <string name="greymane">"Greymane"</string>
+    <string name="guldan">"Gul`Dan"</string>
+    <string name="illidan">"Illidan"</string>
+    <string name="jaina">"Jaina"</string>
+    <string name="johanna">"Johanna"</string>
+    <string name="kaelthas">"Kael`Thas"</string>
+    <string name="kelthuzad">"Kel`Thuzad"</string>
+    <string name="kerrigan">"Kerrigan"</string>
+    <string name="kharazim">"Kharazim"</string>
+    <string name="leoric">"Leoric"</string>
+    <string name="lili">"LiLi"</string>
+    <string name="liming">"Li-Ming"</string>
+    <string name="ltmorales">"Lt. Morales"</string>
+    <string name="lucio">"Lucio"</string>
+    <string name="lunara">"Lunara"</string>
+    <string name="malfurion">"Malfurion"</string>
+    <string name="malthael">"Malthael"</string>
+    <string name="medivh">"Medivh"</string>
+    <string name="muradin">"Muradin"</string>
+    <string name="murky">"Murky"</string>
+    <string name="nazeebo">"Nazeebo"</string>
+    <string name="nova">"Nova"</string>
+    <string name="probius">"Probius"</string>
+    <string name="ragnaros">"Ragnaros"</string>
+    <string name="raynor">"Raynor"</string>
+    <string name="rehgar">"Rehgar"</string>
+    <string name="rexxar">"Rexxar"</string>
+    <string name="samuro">"Samuro"</string>
+    <string name="sgthammer">"Sgt. Hammer"</string>
+    <string name="sonya">"Sonya"</string>
+    <string name="stitches">"Stitches"</string>
+    <string name="stukov">"Stukov"</string>
+    <string name="sylvanas">"Sylvanas"</string>
+    <string name="tassadar">"Tassadar"</string>
+    <string name="lostvikings">"Lost Vikings"</string>
+    <string name="thrall">"Thrall"</string>
+    <string name="tracer">"Tracer"</string>
+    <string name="tychus">"Tychus"</string>
+    <string name="tyrael">"Tyrael"</string>
+    <string name="tyrande">"Tyrande"</string>
+    <string name="uther">"Uther"</string>
+    <string name="valeera">"Valeera"</string>
+    <string name="valla">"Valla"</string>
+    <string name="varian">"Varian"</string>
+    <string name="xul">"Xul"</string>
+    <string name="zagara">"Zagara"</string>
+    <string name="zarya">"Zarya"</string>
+    <string name="zeratul">"Zeratul"</string>
+    <string name="zuljin">"Zul'Jin"</string>
+    <string name="ana">"Ana"</string>
+    <string name="alextrasza">"Alextrasza"</string>
+    <string name="hanzo">"Hanzo</string>
+    <string name="junkrat"> "Junkrat"</string>
+    <string name="dbName">"hots_en1.db"</string>
+    <string name="blaze">Blaze</string>
+    <string name="maiev">Maiev</string>
+    <string name="choose">Choose one:</string>
+    <string name="heroes">"Abathur","Alarak","Anub`Arak","Artanis","Arthas","Auriel","Azmodan","Brightwing","Butcher","Cassia","Chen","Cho`Gall","Chromie",
+                    "D.VA","Dehaka","Diablo","E.T.C.","Falstad","Garrosh","Gazlowe","Genji","Greymane","Gul`dan","Illidan","Jaina","Johanna",
+                    "Kael`Thas","Kel`Thuzad","Kerrigan","Kharazim","Leoric","LiLi","Li-Ming","Lt. Morales","Lucio","Lunara","Malfurion",
+                    "Malthael","Medivh","Muradin","Murky","Nazeebo","Nova","Probius","Ragnaros","Raynor","Rehgar","Rexxar","Samuro","Sgt. Hammer",
+                    "Sonya","Stitches","Stukov","Sylvanas","Tassadar","Lost Vikings","Thrall","Tracer","Tychus","Tyrael","Tyrande","Uther",
+                    "Valeera","Valla","Varian","Xul","Zagara","Zarya","Zeratul","Zul`Jin","Junkrat","Ana"</string>
+    <string name="About">
+        \n
+        This application is a companion of stories (lore) about each playable hero in Heroes of the Storm, Blizzard MOBA game. \n
+        \n
+        Development: Forsaken \n
+        Icon art: Maypole ( www.artstation.com/maypole ) \n
+        \n
+        \n
+        Special Thanks to:\n
+        \n
+        Blizzard games players and fans communities\n
+        \n
+        Blizzard Entertainment for their games and interesting universes with exciting stories.\n
+        \n
+        Good luck to you, guys, and thank you!
+        \n
+        Please, if You enjoyed this application or You have any reviews and wishes leave it at the application page on Play Market.
+        \n
+        If you have comments regarding inaccuracies, regarding lore or information that can be supplemented with it - contact me with e-mail ekssua@gmail.com
+        \n
+        HEROES OF THE STORM AND ALL RELATED IMAGES ARE PROPERTY AND TRADEMARK OF BLIZZARD ENTERTAINMENT. NO COPYRIGHT INFRINGEMENT INTENDED.
+        \n
+        Heroes of the Storm is a trademark, and Blizzard Entertainment is a registered trademark of Blizzard Entertainment Inc. in the U.S. and/or other countries. All other trademarks referenced here are the properties of their respective owners.\n
+    </string>
+    <string name="donText"> If you enjoyed the application and want for it has been updated further you may support the developer.\n
+        You can do it with donation:\n
+        \n
+        \n
+        WebMoney:\n
+        EUR  104508948849\n
+        USD  103146454536\n
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-9134424877176633/7129367094</string>
+    <string name="strorinka">ca-app-pub-9134424877176633/9190872895</string>
+</resources>

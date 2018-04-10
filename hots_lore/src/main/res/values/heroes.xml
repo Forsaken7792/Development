@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heroes">
+        <item>Abathur</item>
+        <item>Alarak"</item>
+        <item>Anub_arak"</item>
+        <item>Artanis</item>
+        <item>Arthas</item>
+        <item>Auriel</item>
+        <item>Azmodan</item>
+        <item>Brightwing</item>
+        <item>Buthcher</item>
+        <item>Cassia</item>
+        <item>Chen</item>
+        <item>Cho`Gall</item>
+        <item>Chromie</item>
+        <item>D.Va</item>
+        <item>Dehaka</item>
+        <item>Diablo</item>
+        <item>E.T.C.</item>
+        <item>Galstad</item>
+        <item>Garrosh</item>
+        <item>Gazlowe</item>
+        <item>Genji</item>
+        <item>Greymane</item>
+        <item>Gul`dan</item>
+        <item>Illidan</item>
+        <item>Jaina</item>
+        <item>Johanna</item>
+        <item>Kael`Thas</item>
+        <item>Kel`Thuzad</item>
+        <item>Kerrigan</item>
+        <item>Kharazim</item>
+        <item>Leoric</item>
+        <item>LiLi</item>
+        <item>Li-Ming</item>
+        <item>Lt. Morales</item>
+        <item>Lucio</item>
+        <item>Lunara</item>
+        <item>Malfurion</item>
+        <item>Malthael</item>
+        <item>Medivh</item>
+        <item>Muradin</item>
+        <item>Murky</item>
+        <item>Nazeebo</item>
+        <item>Nova</item>
+        <item>Probius</item>
+        <item>Ragnaros</item>
+        <item>Raynor</item>
+        <item>Rehgar</item>
+        <item>Rexxar</item>
+        <item>Samuro</item>
+        <item>Sgt. Hammer</item>
+        <item>Sonya</item>
+        <item>Stitches</item>
+        <item>Stukov</item>
+        <item>Sylvanas</item>
+        <item>Tassadar</item>
+        <item>The Lost Vikings</item>
+        <item>Thrall</item>
+        <item>Tracer</item>
+        <item>Tychus</item>
+        <item>Tyrael</item>
+        <item>Tyrande</item>
+        <item>Uther</item>
+        <item>Valeera</item>
+        <item>Valla</item>
+        <item>Varian</item>
+        <item>Xul</item>
+        <item>Zagara</item>
+        <item>Zarya</item>
+        <item>Zeratul</item>
+        <item>Zul`Jin</item>
+        <item>Junkrat</item>
+        <item>Ana</item>
+    </string-array>
+</resources>

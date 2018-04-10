@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "777140447459",
+    "firebase_url": "https://development-10c3a.firebaseio.com",
+    "project_id": "development-10c3a",
+    "storage_bucket": "development-10c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777140447459:android:9ba7348ff2653355",
+        "android_client_info": {
+          "package_name": "forsaken.application.checkmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777140447459-7jlrfro0ujf93l70lfhn8iut7f6dfsca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIOQQi99rSN9Kfj1JfAXhBqyNHPOA9LE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
